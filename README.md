@@ -1,3 +1,8 @@
+# Simple react todoList
+
+![image](https://user-images.githubusercontent.com/30587730/141265388-b77f0457-715b-4ebf-b194-471e532ae073.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
